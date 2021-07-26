@@ -16,7 +16,8 @@ clipboard_changed(1)
 
 
 {
-    /* ; This may be Annoying to pop up the animation each time it's checking. Since it will check when the clipboard changes.
+    /* ; This may be Annoying to pop up the animation each time it's checking. Since it will check when the clipboard changes But this would be needed if it is a link shortner
+        ;Or we need to do some cmd stuff (hard programming essentially)
         BlockInput,On
 
         Gui, Color, black
