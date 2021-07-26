@@ -35,6 +35,4 @@ Very pog!
 
 ## Want To Contribute?
 
-    Fork the repo.
-             Do Your edits.
-                     Make a pull request!
+- Please check `CONTRIBUTING.md`.
