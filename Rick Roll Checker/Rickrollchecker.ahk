@@ -23,11 +23,11 @@ rick_roll_checker(Url_Unknown_RickRoll)
 
 
     ; Url_Unknown_RickRoll is the needle. 
+    ; The needle is the data in the clipboard
 
     For index, in HayStack_of_RickRolls ; This goes through each index in the haystack array.
     {
-        ; This first starts at index 1, which is `"dQw4w9WgXcQ"`. Then it checks if your needle is simalar with the haystack `https://rr.noordstar.me/46b105f1`.
-        ;However! Be advised, since there could be false positives, since you would have https:// in the input. Meaning every string that you give it may be false positive if the url has https in it. Would recomend some user instructions to exclude that (Easy way), or program it to remove it (Hard way).
+        ; This first starts at index 1, which is `"dQw4w9WgXcQ"`. Then it checks if your needle is simalar with the haystack in ricklist.txt Needle:`https://randomSite/dQw4w9WgXcQ`.
         If (InStr(HayStack_of_known_RickRolls, Url_Unknown_RickRoll)) 
         {
 
