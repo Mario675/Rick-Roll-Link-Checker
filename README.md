@@ -1,6 +1,6 @@
 ![Dont Get Rolled'](https://i.ytimg.com/vi/HWUNfZ8bvu4/maxresdefault.jpg)
 
-# Rick-Roll Detector!
+# Advanced Rick-Roll Detector!
 
 Never Get Rolled' again!
 
