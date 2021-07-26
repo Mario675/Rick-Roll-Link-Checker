@@ -25,7 +25,7 @@ But Expect it soon for public beta!
 
 ## Credits
 
-This Project wouldn't be possible if it wasn't for 
+This Project wouldn't be possible if it wasn't for\
 **Mario675#3668**\
 **frontGAMER_GER#7726**\
 **snarkattack#7616**\
