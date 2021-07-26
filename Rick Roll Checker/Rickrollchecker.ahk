@@ -37,12 +37,6 @@ rick_roll_checker(Url_Unknown_RickRoll)
 
     }
 
-
-    ;If nothing got found in the haystack, then it goes down to the below command. 
-    ;MsgBox, 0, , it aint a rickroll but still use caution cause this might be diff link or smtn, 5
-
-    ;Changed Msgbox to a tooltip, as that is less intrusive.
-
     Show_tooltip_while__combo_held__("No RickRoll found.")
 
     return
