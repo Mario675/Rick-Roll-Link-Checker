@@ -9,7 +9,7 @@ Never Get Rolled' again!
 Getting rolled' by your friend is pretty irritating but at least you can ask them about it. Getting rolled on the internet though, Thats a different story and thats why this was born. 
 
 ## What does it do?
-Exactly what it says. Ok, fine ill go into it deeper.
+Exactly what it says. Ok, fine ill go into it deeper.\
 1.Checks the link for any **Popular** Rickroll websites **Even Custom Ons**.\
 You: What about link shorteners \
 2.When you input the link into the input box it will first check for the links but it doesnt find anything it will go to process checker 2 which will play the rick-roll live on your pc. then will check the **URL** for **all possible Rick-Roll** websites.
