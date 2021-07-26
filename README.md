@@ -26,10 +26,10 @@ But Expect it soon for public beta!
 ## Credits
 
 This Project wouldn't be possible if it wasn't for 
-**Mario675#3668**
-**frontGAMER_GER#7726**
-**snarkattack#7616**
-*on discord*
+**Mario675#3668**\
+**frontGAMER_GER#7726**\
+**snarkattack#7616**\
+*on discord*\
 All these people were crucial for this project. 
 Very pog!
 
