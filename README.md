@@ -1,6 +1,8 @@
-![Dont Get Rolled'](https://i.ytimg.com/vi/HWUNfZ8bvu4/maxresdefault.jpg)
+# Advanced Rick-Roll Detector
 
 Never Get Rolled' again!
+
+![Don't Get Rolled'](https://i.ytimg.com/vi/HWUNfZ8bvu4/maxresdefault.jpg)
 
 ## Why? What Problem does it solve?
 
