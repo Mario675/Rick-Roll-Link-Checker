@@ -2,7 +2,7 @@
 
 Never Get Rolled' again!
 
-![Don't Get Rolled'](https://i.ytimg.com/vi/HWUNfZ8bvu4/maxresdefault.jpg)
+<img title="Don't Get Rolled" alt="" src="https://i.ytimg.com/vi/HWUNfZ8bvu4/maxresdefault.jpg" width="350">
 
 ## Why? What Problem does it solve?
 
