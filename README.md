@@ -12,7 +12,7 @@ Getting rolled' by your friend is pretty irritating but at least you can ask the
 
 Exactly what it says. Ok, fine ill go into it deeper.\
 
-1.Checks the link for any **Popular** Rickroll websites **Even Custom Ons**.\
+1.Checks the link for any **Popular** Rickroll websites **Even Custom Ones**.\
 
 ## How to Install
 
