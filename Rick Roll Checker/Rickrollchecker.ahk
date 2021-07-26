@@ -55,7 +55,7 @@ rick_roll_checker(Url_Unknown_RickRoll)
     ; ["dQw4w9WgXcQ", "theraleighregister", "rr.noordstar.me"] ; Haystack
 
     ; The text file has to be created in advance.
-    Path_of__List_Of_RickRolls := "ListofRickRolls.txt"
+    Path_of__List_Of_RickRolls := "ricklist.txt"
 
     HayStack_of_known_RickRolls := readData(Path_of__List_Of_RickRolls)
       
