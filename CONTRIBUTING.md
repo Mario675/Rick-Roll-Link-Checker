@@ -20,6 +20,9 @@ requests](#pull-requests), but please respect the following restrictions:
 * Please **do not** derail or troll issues. Keep the discussion on topic and
   respect the opinions of others.
 
+* Please prepend the `memo` emoji (📝) in your commit if you are working on the docs.
+  Link to learn how to use the emoji picker: https://blog.omniperforms.com/articles/how-use-emojis-windows-10
+
 <a name="bugs"></a>
 
 ## Bug reports
